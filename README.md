@@ -1,4 +1,4 @@
-# Hola! 👋
+# Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 ### A little bit about Myself:- 
  🔭 I’m a sophomore currently pursuing my Bachelors (BTech) in Computer Science and Engineering from [University of Calcutta, Technology Campus](https://www.caluniv.ac.in/campuses/campus8.htm). Prior to that, I completed my schooling from [Don Bosco School Park Circus, Kolkata](https://www.donboscoparkcircus.org/).
