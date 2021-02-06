@@ -19,7 +19,7 @@ My work lead me to look up a lot of things on the web most of which was present 
 I am currently seeking Internships for summer 2021. I am open to other kind of opportunities as well. Click [here](https://github.com/sarobml2000/sarob.github.io/blob/main/Sarosij_Bose_Univ_of_Calcutta.pdf) to view my Resume.
 
 ### Other Stuff:-
-You can have a look at our [poster](https://github.com/sarobml2000/sarobml2000/blob/main/Runners-Up%20Poster.jpg)(1st Runners up) for Hult Prize 2021 here where we speak about our startup 'EcoGeeks'. Also have a look at our College's CodeChef Chapter's [Linkedln Page](https://www.linkedin.com/company/cu-codeclub/) where I am a part of the Executive team to promote awareness about coding in our campus. 
+You can have a look at our [poster](https://github.com/sarobml2000/sarobml2000/blob/main/Runners-Up%20Poster.jpg)(1st Runners up) for Hult Prize 2021 here where we spoke about our startup 'EcoGeeks'. Also have a look at our College's CodeChef Chapter's [Linkedln Page](https://www.linkedin.com/company/cu-codeclub/) where I am a part of the Executive team to promote awareness about coding in our campus. 
 
 ### Reach me:-
 Through my [Linkedln Profile](https://www.linkedin.com/in/sarosijbose/) or mail me at [sarosijbose2000@gmail.com](mailto:sarosijbose2000@gmail.com).
