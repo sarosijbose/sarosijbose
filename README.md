@@ -13,13 +13,13 @@ My work lead me to look up a lot of things on the web most of which was present 
 2. Another [blog](https://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review) which speaks about the parallels between Video classification and Medical Imaging.
 3. A [presentation](https://github.com/sarobml2000/sarobml2000/blob/main/A%20General%20Overview%20of%203D%20Convolution%20.pptx) I made where I explain 3D Convolution with example research literature in detail.
 4. Real time deployment of 3D CNN models nicely explained [here](https://medium.com/@neurodatalab/real-time-action-recognition-using-a-3d-cnn-827686b25c08).
-5. A [question](https://stackoverflow.com/questions/65273118/why-is-tensorflow-not-recognizing-my-gpu-after-conda-install) I asked on StackOverflow because I was'nt aware that Tensorflow had faulty builds as well. Can save you a lot of headache if working with TF 2.3.0 .
+5. A [question](https://stackoverflow.com/questions/65273118/why-is-tensorflow-not-recognizing-my-gpu-after-conda-install) I asked on StackOverflow because I wasn't aware that Tensorflow had faulty builds as well. Can save you a lot of headache if working with TF 2.3.0 .
 
 ### Opportunities:-
 I am currently seeking Internships for summer 2021. I am open to other kind of opportunities as well. Click [here](https://github.com/sarobml2000/sarob.github.io/blob/main/Sarosij_Bose_Univ_of_Calcutta.pdf) to view my Resume.
 
 ### Other Stuff:-
-You can have a look at our [poster](https://github.com/sarobml2000/sarobml2000/blob/main/Runners-Up%20Poster.jpg)(1st Runners up) for Hult Prize 2021 here where we spoke about our startup 'EcoGeeks'. Also have a look at our College's CodeChef Chapter's [Linkedln Page](https://www.linkedin.com/company/cu-codeclub/) where I am a part of the Executive team to promote awareness about coding in our campus. 
+You can have a look at our [poster](https://github.com/sarobml2000/sarobml2000/blob/main/Runners-Up%20Poster.jpg)(Qualified for Mumbai Regionals) for Hult Prize 2021 here where we spoke about our startup 'EcoGeeks'. Also have a look at our College's CodeChef Chapter's [Linkedln Page](https://www.linkedin.com/company/cu-codeclub/) where I am a part of the Executive team to promote awareness about coding in our campus. 
 
 ### Reach me:-
 Through my [Linkedln Profile](https://www.linkedin.com/in/sarosijbose/) or mail me at [sarosijbose2000@gmail.com](mailto:sarosijbose2000@gmail.com).
