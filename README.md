@@ -16,7 +16,7 @@ My work lead me to look up a lot of things on the web most of which was present 
 5. A [question](https://stackoverflow.com/questions/65273118/why-is-tensorflow-not-recognizing-my-gpu-after-conda-install) I asked on StackOverflow because I wasn't aware that Tensorflow had faulty builds as well. Can save you a lot of headache if working with TF 2.3.0 .
 
 ### Opportunities:-
-I am currently seeking Internships for summer 2021. I am open to other kind of opportunities as well. Click [here](https://github.com/sarobml2000/sarob.github.io/blob/main/Sarosij_Bose_Univ_of_Calcutta.pdf) to view my Resume.
+I am open to research projects and other kind of opportunities in Vision. Click [here](https://github.com/sarobml2000/sarob.github.io/blob/main/Sarosij_Bose_Univ_of_Calcutta.pdf) to view my Resume.
 
 ### Other Stuff:-
 You can have a look at our [poster](https://github.com/sarobml2000/sarobml2000/blob/main/Runners-Up%20Poster.jpg)(Qualified for Mumbai Regionals) for Hult Prize 2021 here where we spoke about our startup 'EcoGeeks'. Also have a look at our College's CodeChef Chapter's [Linkedln Page](https://www.linkedin.com/company/cu-codeclub/) where I am a part of the Executive team to promote awareness about coding in our campus. 
