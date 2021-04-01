@@ -19,7 +19,7 @@ My work lead me to look up a lot of things on the web most of which was present 
 I am open to research projects and other kind of opportunities in Vision. Click [here](https://github.com/sarobml2000/sarob.github.io/blob/main/Sarosij_Bose_Univ_of_Calcutta.pdf) to view my Resume.
 
 ### Other Stuff:-
-You can have a look at our [poster](https://github.com/sarobml2000/sarobml2000/blob/main/Runners-Up%20Poster.jpg)(Qualified for Mumbai Regionals) for Hult Prize 2021 here where we spoke about our startup 'EcoGeeks'. Also have a look at our College's CodeChef Chapter's [Linkedln Page](https://www.linkedin.com/company/cu-codeclub/) where I am a part of the Executive team to promote awareness about coding in our campus. 
+Our team [qualified]() for the Hult prize 2021 Mumbai regionals where we spoke about our startup 'EcoGeeks'. Also have a look at our College's CodeChef Chapter's [Linkedln Page](https://www.linkedin.com/company/cu-codeclub/) where I am a part of the Executive team to promote awareness about coding in our campus. 
 
 ### Reach me:-
 Through my [Linkedln Profile](https://www.linkedin.com/in/sarosijbose/) or mail me at [sarosijbose2000@gmail.com](mailto:sarosijbose2000@gmail.com).
