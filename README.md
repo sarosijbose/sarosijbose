@@ -1,7 +1,7 @@
 # Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 ### A little bit about Myself:- 
-I’m a sophomore currently pursuing my Bachelors (BTech) in Computer Science and Engineering from [University of Calcutta, Technology Campus](https://www.caluniv.ac.in/campuses/campus8.htm). Prior to that, I completed my schooling from [Don Bosco School Park Circus, Kolkata](https://www.donboscoparkcircus.org/).
+I’m a sophomore currently pursuing my Bachelors (BTech) in Computer Science and Engineering from [University of Calcutta, Technology Campus](https://www.caluniv.ac.in/campuses/campus-8.html). Prior to that, I completed my schooling from [Don Bosco School Park Circus, Kolkata](https://www.donboscoparkcircus.org/).
 
 I am currently tackling problems in 3D Vision, more specifically Human Activity Recognition(HAR). Therefore my work revolves around 3D ConvNets, various fusion techniques and GPUs. Besides that I have also built numerous projects hosted In my [repos](https://github.com/sarobml2000?tab=repositories) on a variety of topics encompassing Deep Learning, Computer Vision, Machine Learning and a little bit of NLP. I hope to work more with Computer Vision, Imaging and Backend Dev in the future.
 
