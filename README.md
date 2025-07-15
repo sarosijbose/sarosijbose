@@ -1,7 +1,7 @@
 # Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 ### About Me:- 
-I'm a 1st year PhD student at [UC Riverside](https://www.ucr.edu/), affiliated with the VCG AND ARCS groups. Before that, I completed my Bachelors (BTech) in Computer Science and Engineering from [University of Calcutta, Technology Campus](https://www.caluniv.ac.in/campuses/campus-8.html). I primarily work at the intersection of computer vision, LLM's and robot learning, specifically on grounding in robotics. Earlier, I worked on a bunch of problems in vision and graphics such as BRDF estimation, action recognition, 2D shape recon and even theory such as lipschitz regularization.
+I'm a PhD student at [UC Riverside](https://www.ucr.edu/), affiliated with the VCG AND ARCS groups. Before that, I completed my Bachelors (BTech) in Computer Science and Engineering from [University of Calcutta, Technology Campus](https://www.caluniv.ac.in/campuses/campus-8.html). I primarily work at the intersection of computer vision, LLM's and robot learning, specifically on grounding in robotics. Earlier, I worked on a bunch of problems in vision and graphics such as BRDF estimation, action recognition, 2D shape recon and even theory such as lipschitz regularization.
 
 ⚡ Checkout my [website](http://sarosijbose.github.io/)!
 
